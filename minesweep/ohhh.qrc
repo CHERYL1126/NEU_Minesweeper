@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>p/a.png</file>
+        <file>p/aaa.png</file>
+        <file>p/bang.png</file>
+        <file>p/cao.png</file>
+        <file>p/cha.png</file>
+        <file>p/haha.png</file>
+        <file>p/lei.png</file>
+        <file>p/qizi.png</file>
+        <file>p/start.png</file>
+        <file>p/tu.png</file>
+        <file>p/wenhao.png</file>
+        <file>p/ying.png</file>
+        <file>p/youxian.png</file>
+        <file>p/npc.png</file>
+        <file>p/peace.png</file>
+        <file>p/pia.png</file>
+    </qresource>
+</RCC>
